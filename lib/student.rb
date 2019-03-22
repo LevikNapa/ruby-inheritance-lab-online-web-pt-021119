@@ -9,4 +9,5 @@ def learn(knowledge)
 
    def knowledge
     @knowledge
+  end
 end
